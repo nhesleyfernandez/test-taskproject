@@ -810,7 +810,7 @@ nav ul li a:hover::before {
   font-weight: 400;
   line-height: 20px;
   letter-spacing: 0.2px;
-  width: 680px;
+  width: 250%;
 }
 
 #three-comment {
